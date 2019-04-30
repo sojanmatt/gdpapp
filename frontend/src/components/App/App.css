@@ -1,0 +1,43 @@
+.App-header {
+  background-color: #222;
+  padding: 20px;
+  color: white;
+
+  text-align: center;
+
+  text-transform: capitalize;
+  font-variant: small-caps;
+  font-family: arial;
+  font-size: 18px;
+  font-weight: 800;
+}
+
+.App-chart-container {
+  padding: 15px;
+  margin: 0 auto;
+  margin-top: 30px;
+  /* max-width: 800px; */
+
+  /* overflow: auto; */
+}
+
+.App-chart-description {
+  font-size: 1.2em;
+}
+
+.App-chart-source {
+  color: #757575;
+  font-size: 0.9em;
+  font-style: italic;
+  margin-bottom: 30px;
+}
+
+.App-chart-source a {
+  color: #757575;
+}
+.Responsive-wrapper {
+  background-color: #fff;
+  border: 1px solid #d1d5da;
+  box-shadow: 0 2px 5px rgba(0, 0, 0, 0.3);
+  border-radius: 4px;
+}
